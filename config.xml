@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "co.sonaya.app"
+        versionCode = "12" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Asis24</name>
+
+    <description>
+        Asistencia 24/7 conductor elegido carro taller y hogares 
+    </description>
+
+    <author href="https://www.sonaya.co" email="info.sonaya@gmail.com">
+        Sonaya works 
+    </author>
+
+</widget>
